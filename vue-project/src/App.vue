@@ -2,11 +2,7 @@
   <div>
     <header>
       <nav>
-        <RouterLink to="/todolist">To Do List</RouterLink>
         <RouterLink to="/resources">Resources</RouterLink>
-        <RouterLink to="/timer">Timer</RouterLink>
-        <RouterLink to="/GradeCalculator">Grade Calculator</RouterLink>
-        <RouterLink to="/"></RouterLink>
       </nav>
     </header>
     <div class="routerstuff">
